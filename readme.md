@@ -6,3 +6,6 @@
 ## HERE ARE THE PROJECTS FEATURED
 * Fully Elastic and Scalable Web Application Architecture
 * Implement Serverless Application
+
+## CREDITS
+> I have learnt and used most of the lab setups from [learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) so feel free to check the repository up.
