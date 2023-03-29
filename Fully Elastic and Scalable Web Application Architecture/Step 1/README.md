@@ -191,6 +191,7 @@ sudo rm /tmp/db.setup
 ```
 ### Test Wordpress is installed
 I went to the EC2 console, selected the ````Wordpress-Manual````, copied the ````IPv4 Public IP```` into my clipboard, and opened it in a new tab. This loaded to the Wordpress welcome page.
+![Wordpress1](https://user-images.githubusercontent.com/122386130/228515462-f42e772d-01f9-4d80-9fbb-74214296bf91.PNG)
 
 ### Perform Initial Configuration and make a post
 
@@ -213,6 +214,8 @@ I went to the EC2 console, selected the ````Wordpress-Manual````, copied the ```
 * Click ````Publish```` Click ````View Post````
 
 All this was working, meaning my manual installation and configuration of Wordpress was successful.
+![Wordpress1b](https://user-images.githubusercontent.com/122386130/228515303-b901cd53-48f3-4615-a9a7-33b14653ee22.PNG)
+
 
 ## STAGE 1E - FINISH
 
