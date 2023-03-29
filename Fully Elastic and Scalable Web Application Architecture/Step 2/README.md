@@ -127,4 +127,4 @@ This worked for me and I was able to see launch my template successfully.
 ## Step 2D - FINISH
 Here, I solved the problem of having to build an EC2 instance manually by automating the process. However, the problem of the database and application being on the same instance remained, as neither could scale without the other.
 
-From here, I moved to Step 3
+From here, I moved to [Step 3](https://github.com/Diana725/AWS-Solutions-Architect-Projects/tree/main/Fully%20Elastic%20and%20Scalable%20Web%20Application%20Architecture/Step%203)
