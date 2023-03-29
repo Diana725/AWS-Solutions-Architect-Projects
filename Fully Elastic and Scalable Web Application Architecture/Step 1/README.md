@@ -224,4 +224,4 @@ All this was working, meaning my manual installation and configuration of Wordpr
 * Customer connections are to an instance directly so I could not apply health checks or autohealing
 * Starting and stopping the EC2 instance causes the IP address to change and therefore, I ended up losing my images
 
-From Here, I moved on to Step 2
+From Here, I moved on to [Step 2](https://github.com/Diana725/AWS-Solutions-Architect-Projects/tree/main/Fully%20Elastic%20and%20Scalable%20Web%20Application%20Architecture/Step%202)
