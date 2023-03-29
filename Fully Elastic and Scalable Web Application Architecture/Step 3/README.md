@@ -159,4 +159,4 @@ Now, the application and database are built automatically, and I have shifted th
 
 Still, we have the problem of the application media and UI store being local to the instance, meaning scaling IN/OUT would risk the media. Customer connections are also directly to an instance and there's no option to perform health cheacks or auto healing. The IP of the instance should also be hardcoded into the database.
 
-From here, I moved to stage 4.
+From here, I moved to [Stage 4](https://github.com/Diana725/AWS-Solutions-Architect-Projects/tree/main/Fully%20Elastic%20and%20Scalable%20Web%20Application%20Architecture/Step%204).
