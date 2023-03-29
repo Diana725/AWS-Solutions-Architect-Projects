@@ -217,8 +217,6 @@ All this was working, meaning my manual installation and configuration of Wordpr
 ![Wordpress1b](https://user-images.githubusercontent.com/122386130/228515303-b901cd53-48f3-4615-a9a7-33b14653ee22.PNG)
 
 
-## STAGE 1E - FINISH
-
 * On the EC2 console, right click ````Wordpress-Manual```` , ````Instance State````, ````Terminate````, ````Yes, Terminate````
 
 ## THE LIMITATIONS OF THIS CONFIGURATION
@@ -226,5 +224,8 @@ All this was working, meaning my manual installation and configuration of Wordpr
 * The database and application are on the same instance so neither can scale without the other
 * Customer connections are to an instance directly so I could not apply health checks or autohealing
 * Starting and stopping the EC2 instance causes the IP address to change and therefore, I ended up losing my images
+
+## STAGE 1E - CLEANUP
+* On the EC2 console, right click ````Wordpress-Manual```` , ````Instance State````, ````Terminate````, ````Yes, Terminate````
 
 From Here, I moved on to [Step 2](https://github.com/Diana725/AWS-Solutions-Architect-Projects/tree/main/Fully%20Elastic%20and%20Scalable%20Web%20Application%20Architecture/Step%202)
