@@ -130,4 +130,4 @@ mount -a -t efs defaults
 
 Now, the only limitation that this configuration has is that the customer still connects to an instance directly so there're no health checks and auto healing. Also, the IP of the instance is hardcoded into the database.
 
-Now, you can move onto Step 5
+Now, you can move onto [Step 5](https://github.com/Diana725/AWS-Solutions-Architect-Projects/tree/main/Fully%20Elastic%20and%20Scalable%20Web%20Application%20Architecture/Step%205)
